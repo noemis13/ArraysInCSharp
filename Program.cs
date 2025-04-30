@@ -7,7 +7,7 @@ class Program
         //HandleSortArrays(initialArray);
 
         //HandleSplitAndJoins();
-        ReverWord();
+        RevertWord();
     }
 
 
@@ -88,7 +88,7 @@ class Program
         PrintArray(items);
     }
 
-    static void ReverWord()
+    static void RevertWord()
     {
         // reverse the following expression
         string pangram = "The quick brown fox jumps over the lazy dog";
